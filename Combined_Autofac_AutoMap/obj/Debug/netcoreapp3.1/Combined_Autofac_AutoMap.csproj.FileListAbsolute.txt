@@ -1,0 +1,17 @@
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.exe
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.deps.json
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.runtimeconfig.json
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.runtimeconfig.dev.json
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.dll
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.pdb
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\obj\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.csprojAssemblyReference.cache
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\obj\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.AssemblyInfoInputs.cache
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\obj\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.AssemblyInfo.cs
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\obj\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.csproj.CoreCompileInputs.cache
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\obj\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.csproj.CopyComplete
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\obj\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.dll
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\obj\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.pdb
+C:\Users\Fusionstak\source\repos\Combined_Autofac_AutoMap\obj\Debug\netcoreapp3.1\Combined_Autofac_AutoMap.genruntimeconfig.cache

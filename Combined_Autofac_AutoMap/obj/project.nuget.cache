@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6tfY1YSjbONJGS/pYIA0m4rg6XEyIG2TxhShSVyudSy8IZZi7Iy44NyXY7rWQ6+mwg3MFbHhB8g3UrDNpI1kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fusionstak\\source\\repos\\Combined_Autofac_AutoMap\\Combined_Autofac_AutoMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fusionstak\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Fusionstak\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Fusionstak\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Fusionstak\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Fusionstak\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
